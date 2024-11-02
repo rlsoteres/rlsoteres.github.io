@@ -7,7 +7,7 @@ excerpt:
 date: 2022-06-27
 venue: 'Scientific Reports'
 slidesurl: 
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s41598-022-14921-4)'
+paperurl: '(http://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s41598-022-14921-4)'
 citation: 
 ---
 
