@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geography, Pontificia Universidad Católica de Chile, 2020
+* M.S. in Environmental Geology, Universidad Complutense de Madrid, 2014
+* B.S. in Geography, Universidad Autónoma de Madrid, 2013
 
 Work experience
 ======
