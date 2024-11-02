@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Glacier fluctuations in the northern Patagonian Andes (44°S) imply wind-modulated interhemispheric in-phase climate shifts during Termination 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt:
+date: 2022-06-27
+venue: 'Scientific Reports'
+slidesurl: 
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s41598-022-14921-4)'
+citation: 
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Last Glacial Termination (T1) featured major changes in global circulation systems that led to a shift from glacial to interglacial climate. While polar ice cores attest to an antiphased thermal pattern at millennial timescales, recent well-dated moraine records from both hemispheres suggest in-phase fluctuations in glaciers through T1, which is inconsistent with the bipolar see-saw paradigm. Here, we present a glacier chronology based on 30 new 10Be surface exposure ages from well-preserved moraines in the Lago Palena/General Vintter basin in northern Patagonia (~ 44°S). We find that the main glacier lobe underwent profound retreat after 19.7 ± 0.7 ka. This recessional trend led to the individualization of the Cerro Riñón glacier by ~ 16.3 ka, which underwent minor readvances at 15.9 ± 0.5 ka during Heinrich Stadial 1, during the Antarctic Cold Reversal with successive maxima at 13.5 ± 0.4, 13.1 ± 0.4, and 13.1 ± 0.5 ka, and a minor culmination at 12.5 ± 0.4 ka during Younger Dryas time. We conclude that fluctuations of Patagonian glaciers during T1 were controlled primarily by climate anomalies brought by shifts in the Southern Westerly Winds (SWW) locus. We posit that the global covariation of mountain glaciers during T1 was linked to variations in atmospheric CO2 (atmCO2) promoted by the interplay of the SWW-Southern Ocean system at millennial timescales.
