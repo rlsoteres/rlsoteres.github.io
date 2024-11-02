@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Glacial Geomorphology from Patagonia"
 title_separator          : "-"
-name                     : &name "rlsoteres"
+name                     : &name "Glacial Geomorphology from Patagonia"
 description              : &description "Glacial Geomorphology from Patagonia"
 url                      : https://rlsoteres.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -33,7 +33,7 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.es/citations?user=VBYUvaMAAAAJ&hl=es"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3647-5342"
-  researchgate     : "https://orcid.org/my-orcid?orcid=0000-0003-3647-5342"
+  researchgate     : "https://www.researchgate.net/profile/Rodrigo-Soteres"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
