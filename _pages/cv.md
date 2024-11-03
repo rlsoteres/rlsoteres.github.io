@@ -20,4 +20,4 @@ Work experience
 * Postdoc fellow Universidad de Magallanes, 2022-Today
 * Postdoc fellow Núcleo Milenio Paleoclima, 2020-2021
 
-Here's my updated [CV](
+Here's my updated [CV](files/CV_Soteres (Esp) Sep24.pdf)
