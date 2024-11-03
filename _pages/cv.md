@@ -27,4 +27,4 @@ Teaching
 * Universidad de Concepción (UdeC, Concepción, Chile), 2020
 * Universidad Alberto Hurtado (UAH, Santiago, Chile), 2018-2021
 
-Here's my updated [CV](files/CV_Soteres (Esp) Sep24.pdf)
+Here's my updated [CV](CV_Soteres (Esp) Sep24.pdf)
