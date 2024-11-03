@@ -23,8 +23,11 @@ Positions
 Teaching
 ======
 * Universidad de Magallanes (UMAG, Punta Arenas, Chile), 2022-Today
+  * Glacial Geology    
 * Pontificia Universidad Católica de Chile (PUC, Santiago, Chile), 2021
+  * Climatic & Dynamic Geomorphology 
 * Universidad de Concepción (UdeC, Concepción, Chile), 2020
+  * Natural Systems Fundamentals
+  * Introduction to Hydrology 
 * Universidad Alberto Hurtado (UAH, Santiago, Chile), 2018-2021
-
-Here's my updated ![CV](CV_Soteres (Esp) Sep24.pdf)
+  * Tectonic Geomorphology 
