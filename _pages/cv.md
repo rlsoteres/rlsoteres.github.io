@@ -30,4 +30,29 @@ Teaching
   * Natural Systems Fundamentals
   * Introduction to Hydrology 
 * Universidad Alberto Hurtado (UAH, Santiago, Chile), 2018-2021
-  * Tectonic Geomorphology 
+  * Tectonic Geomorphology
+
+ <html>
+<head>
+  <title>Your title</title>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+</head>
+<body>
+  <div id="adobe-dc-view"></div>
+  <script type="text/javascript">
+   document.addEventListener("adobe_dc_view_sdk.ready", function()
+   {
+      var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
+      adobeDCView.previewFile(
+     {
+         content:  {location: {url: "<files/CV_Sep24.pdf">}},
+         metaData: {fileName: "CV_Sep24.pdf"}
+     });
+   });
+  </script>
+</body>
+</html>
+<!--Get the samples from https://www.adobe.com/go/pdfembedapi_samples-->
+
