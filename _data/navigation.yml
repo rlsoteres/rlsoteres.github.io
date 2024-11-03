@@ -8,14 +8,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Outreach"
-    url: /outreach/    
-
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+  - title: "Outreach"
+    url: /outreach/   
+    
+  - title: "CV"
+    url: /cv/
     
   - title: "Portfolio"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+
