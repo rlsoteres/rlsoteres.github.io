@@ -32,3 +32,11 @@ Teaching
 * Universidad Alberto Hurtado (UAH, Santiago, Chile), 2018-2021
   * Tectonic Geomorphology
 
+<iframe 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://rlsoteres.github.io/rlsoteres/files/CV_Sep24.pdf"
+    width="600" 
+    height="780" 
+    style="border: none;">
+</iframe>
+
+
