@@ -1,5 +1,5 @@
 ---
-title: "Planeta Agua: Los Glaciares con la Fundación Glaciares Chilenos (Podcast)"
+title: "Planeta Agua: Caminando entre glaciares con la Fundación Glaciares Chilenos (Podcast)"
 collection: talks
 type: "Podcast"
 permalink: /talks/2024_Podcast
