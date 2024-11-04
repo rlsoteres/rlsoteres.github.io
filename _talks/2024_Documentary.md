@@ -2,7 +2,7 @@
 title: "Grey: El camino del hielo (Documentary)"
 collection: talks
 type: "Documentary"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/2024_Documentary
 venue: 
 date: 2024-06-01
 location: "Parque Nacional Torres del Paine"
