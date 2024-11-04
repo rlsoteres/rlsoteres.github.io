@@ -9,6 +9,6 @@ location: "Santiago"
 ---
 
 <div style="text-align: center;"> 
-    <img src="images\Rocadictos.jpg" alt="Rocadictos" style="width:50%; height:auto;">
+    <img src="Rocadictos.jpg" alt="Rocadictos" style="width:50%; height:auto;">
 </div>
 
