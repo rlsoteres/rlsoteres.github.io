@@ -8,4 +8,7 @@ date: 2023-06-07
 location: "Santiago"
 ---
 
-[Rocadictos](Rocadictos.jpg)
+<div style="text-align: center;"> 
+    <img src="images\Rocadictos.jpg" alt="Rocadictos" style="width:50%; height:auto;">
+</div>
+
