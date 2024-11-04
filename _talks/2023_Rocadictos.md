@@ -7,6 +7,7 @@ venue:
 date: 2023-06-07
 location: "Santiago"
 ---
-
-![Rocadictos](/images/Rocadictos.jpg)
+<div style="text-align: center;"> 
+    <img src="images/Rocadictos.jpg" alt="Rocadictos - El Último Máximo Glacial en la Patagonia" style="width:50%; height:auto;">
+</div>
 
