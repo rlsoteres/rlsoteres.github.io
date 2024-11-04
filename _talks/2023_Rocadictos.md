@@ -8,5 +8,5 @@ date: 2023-06-07
 location: "Santiago"
 ---
 
-![Rocadictos](/images/Rocadictos.jpg)
+![Rocadictos](/images/Rocadictos.jpg =250x250)
 
