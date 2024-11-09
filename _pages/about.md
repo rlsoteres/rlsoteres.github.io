@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Geomorphology from Patagonia"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /about/
