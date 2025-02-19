@@ -13,7 +13,7 @@ This is Rodrigo L. Soteres a half Spaniard, half Chilean geomorphologist current
 
 <!-- El código siguiente es para subir imágenes, ajustar su tamaño y centrarlas. Se basa en HTML, no markdown -->
 <div>
-    <img src="images/Fouque_front.jpg" alt="Ventisquero Fouqué, Isla Hoste" style="width:50%; height:auto; float: left; margin-right: 10px;">
+    <img src="images/Fouque_front.jpg" alt="Ventisquero Fouqué, Isla Hoste" style="width:50%; height:auto">
 </div>
 
 
