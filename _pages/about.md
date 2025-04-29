@@ -13,7 +13,7 @@ This is Rodrigo L. Soteres, a half-Spaniard, half-Chilean geomorphologist curren
 
 <!-- El código siguiente es para subir imágenes, ajustar su tamaño y centrarlas. Se basa en HTML, no markdown -->
 <div>
-    <img src="images/Grey24-3.jpg" alt="Grey glacier, Torres del Paine" style="width:50%; height:auto;">
+    <img src="images/Grey24-3.jpg" alt="Grey glacier, Torres del Paine" style="width:100%; height:auto;">
 </div>
 
 
